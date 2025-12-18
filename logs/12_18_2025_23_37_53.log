@@ -1,0 +1,7 @@
+[2025-12-18 23:38:26,440] 23 root - INFO - Data loading started
+[2025-12-18 23:38:34,081] 37 root - INFO - Data loading completed
+[2025-12-18 23:38:34,082] 22 QAWithPDF.embedding - INFO - Initializing OpenAI models
+[2025-12-18 23:38:34,337] 38 QAWithPDF.embedding - INFO - Creating new index
+[2025-12-18 23:38:38,086] 1025 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+[2025-12-18 23:38:40,254] 1025 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+[2025-12-18 23:38:41,911] 1025 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
