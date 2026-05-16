@@ -1,0 +1,28 @@
+[2025-12-18 23:47:47,048] 23 root - INFO - Data loading started
+[2025-12-18 23:47:50,960] 37 root - INFO - Data loading completed
+[2025-12-18 23:47:50,961] 22 QAWithPDF.embedding - INFO - Initializing OpenAI models
+[2025-12-18 23:47:51,439] 32 QAWithPDF.embedding - INFO - Loading existing index from storage
+[2025-12-18 23:47:51,770] 67 llama_index.core.indices.loading - INFO - Loading all indices.
+[2025-12-18 23:47:54,971] 1025 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+[2025-12-18 23:47:56,490] 1025 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-12-18 23:49:26,687] 23 root - INFO - Data loading started
+[2025-12-18 23:49:28,369] 37 root - INFO - Data loading completed
+[2025-12-18 23:49:28,369] 22 QAWithPDF.embedding - INFO - Initializing OpenAI models
+[2025-12-18 23:49:28,377] 32 QAWithPDF.embedding - INFO - Loading existing index from storage
+[2025-12-18 23:49:28,753] 67 llama_index.core.indices.loading - INFO - Loading all indices.
+[2025-12-18 23:49:30,481] 1025 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+[2025-12-18 23:49:31,321] 1025 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-12-18 23:50:29,403] 23 root - INFO - Data loading started
+[2025-12-18 23:50:30,870] 37 root - INFO - Data loading completed
+[2025-12-18 23:50:30,870] 22 QAWithPDF.embedding - INFO - Initializing OpenAI models
+[2025-12-18 23:50:30,871] 32 QAWithPDF.embedding - INFO - Loading existing index from storage
+[2025-12-18 23:50:31,056] 67 llama_index.core.indices.loading - INFO - Loading all indices.
+[2025-12-18 23:50:32,213] 1025 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+[2025-12-18 23:50:35,834] 1025 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-12-18 23:51:11,266] 23 root - INFO - Data loading started
+[2025-12-18 23:51:13,051] 37 root - INFO - Data loading completed
+[2025-12-18 23:51:13,052] 22 QAWithPDF.embedding - INFO - Initializing OpenAI models
+[2025-12-18 23:51:13,055] 32 QAWithPDF.embedding - INFO - Loading existing index from storage
+[2025-12-18 23:51:13,235] 67 llama_index.core.indices.loading - INFO - Loading all indices.
+[2025-12-18 23:51:15,052] 1025 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+[2025-12-18 23:51:17,256] 1025 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
